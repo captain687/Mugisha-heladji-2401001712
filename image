@@ -1,0 +1,12 @@
+<DOCTYPE Html>
+    <html lang="en">
+        <head>
+            <title>image </title>
+    
+        </head>
+        <body> 
+           <img src="cow img.jpg" alt  width="600">
+        </body>
+        
+    
+    </html>
