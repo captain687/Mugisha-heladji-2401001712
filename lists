@@ -1,0 +1,19 @@
+<DOCTYPE Html>
+    <html lang="en">
+        <head>
+            <title>List</title>
+        </head>
+        <body> 
+           An unordered List 
+           <ul>
+            <li>heladji </li>
+            <li>Mugisha </li>
+
+           </ul>
+           An unordered List 
+           <ul>
+            <li>Mike </li>
+            <li>john </li>
+            
+           </ul>
+        </body>
